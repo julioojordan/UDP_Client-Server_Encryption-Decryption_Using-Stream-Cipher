@@ -12,6 +12,7 @@
 
 <p> to run the program : </p>
 <ol>
+  <li> Dont forget to instal socket.py </li> 
   <li> run the server1-decrypt/encrypt first</li> 
   <li> after that run the client</li>
 </ol>
